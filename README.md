@@ -22,7 +22,7 @@ Main entry points:
 
 
 ## Abstract:
-We study a contextual dynamic pricing problem under a semiparametric demand model, where the purchase probability takes the form $1 - F(p - m(\bx))$ with mean utility $m(\bx)$ given the product feature $\bx$ and the market noise distribution $F$. Existing approaches for this model either suffer from suboptimal regret rates or require strong structural assumptions that limit flexibility. 
+We study a contextual dynamic pricing problem under a semiparametric demand model, where the purchase probability takes the form $1 - F(p - m(\boldsymbol x))$ with mean utility $m(\boldsymbol x)$ given the product feature $\bx$ and the market noise distribution $F$. Existing approaches for this model either suffer from suboptimal regret rates or require strong structural assumptions that limit flexibility. 
 
 We propose a stagewise greedy pricing algorithm that iteratively refines the estimate of the unknown distribution $F$ using local polynomial regression, while pricing greedily using the currently available estimates. Our algorithm exploits feature diversity to reuse endogenous samples collected during exploitation for nonparametric function estimation, avoiding the need for costly global random exploration in the previous literature. 
 
