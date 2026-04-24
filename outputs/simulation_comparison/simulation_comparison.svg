@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="100%" height="100%" fill="white" />
+<rect x="120" y="68" width="680" height="34" fill="white" stroke="#444" />
+<line x1="138" y1="86" x2="176" y2="86" stroke="#1f77b4" stroke-width="4" />
+<circle cx="157" cy="86" r="4.5" fill="#1f77b4" />
+<text x="188" y="91" font-size="17" font-family="Helvetica">ILPR</text>
+<line x1="315" y1="86" x2="353" y2="86" stroke="#d62728" stroke-width="4" />
+<circle cx="334" cy="86" r="4.5" fill="#d62728" />
+<text x="365" y="91" font-size="17" font-family="Helvetica">Kernel-based policy</text>
+<line x1="665" y1="86" x2="703" y2="86" stroke="#2a9d8f" stroke-width="4" />
+<circle cx="684" cy="86" r="4.5" fill="#2a9d8f" />
+<text x="715" y="91" font-size="17" font-family="Helvetica">DIP</text>
+<rect x="90" y="110" width="690" height="430" fill="none" stroke="#333" stroke-width="1.5" />
+<line x1="145" y1="480" x2="740" y2="480" stroke="#333" />
+<line x1="145" y1="135" x2="145" y2="480" stroke="#333" />
+<line x1="293.75" y1="135" x2="293.75" y2="480" stroke="#ddd" stroke-dasharray="4 4" />
+<line x1="442.50" y1="135" x2="442.50" y2="480" stroke="#ddd" stroke-dasharray="4 4" />
+<line x1="591.25" y1="135" x2="591.25" y2="480" stroke="#ddd" stroke-dasharray="4 4" />
+<line x1="145" y1="393.75" x2="740" y2="393.75" stroke="#ddd" stroke-dasharray="4 4" />
+<line x1="145" y1="307.50" x2="740" y2="307.50" stroke="#ddd" stroke-dasharray="4 4" />
+<line x1="145" y1="221.25" x2="740" y2="221.25" stroke="#ddd" stroke-dasharray="4 4" />
+<polygon fill="#1f77b4" fill-opacity="0.18" stroke="none" points="219.38,469.66 293.75,473.10 442.50,469.36 591.25,467.36 740.00,463.49 740.00,465.29 591.25,468.23 442.50,470.02 293.75,473.51 219.38,475.47" />
+<polyline fill="none" stroke="#1f77b4" stroke-width="3" points="219.38,472.57 293.75,473.30 442.50,469.69 591.25,467.80 740.00,464.39" />
+<circle cx="219.38" cy="472.57" r="4" fill="#1f77b4" />
+<circle cx="293.75" cy="473.30" r="4" fill="#1f77b4" />
+<circle cx="442.50" cy="469.69" r="4" fill="#1f77b4" />
+<circle cx="591.25" cy="467.80" r="4" fill="#1f77b4" />
+<circle cx="740.00" cy="464.39" r="4" fill="#1f77b4" />
+<polygon fill="#d62728" fill-opacity="0.18" stroke="none" points="219.38,422.76 293.75,380.79 442.50,317.28 591.25,260.48 740.00,216.49 740.00,222.33 591.25,266.35 442.50,323.13 293.75,385.00 219.38,424.03" />
+<polyline fill="none" stroke="#d62728" stroke-width="3" points="219.38,423.40 293.75,382.90 442.50,320.20 591.25,263.42 740.00,219.41" />
+<circle cx="219.38" cy="423.40" r="4" fill="#d62728" />
+<circle cx="293.75" cy="382.90" r="4" fill="#d62728" />
+<circle cx="442.50" cy="320.20" r="4" fill="#d62728" />
+<circle cx="591.25" cy="263.42" r="4" fill="#d62728" />
+<circle cx="740.00" cy="219.41" r="4" fill="#d62728" />
+<polygon fill="#2a9d8f" fill-opacity="0.18" stroke="none" points="219.38,435.52 293.75,402.36 442.50,337.76 591.25,287.83 740.00,233.96 740.00,234.29 591.25,288.11 442.50,338.03 293.75,402.54 219.38,435.64" />
+<polyline fill="none" stroke="#2a9d8f" stroke-width="3" points="219.38,435.58 293.75,402.45 442.50,337.89 591.25,287.97 740.00,234.13" />
+<circle cx="219.38" cy="435.58" r="4" fill="#2a9d8f" />
+<circle cx="293.75" cy="402.45" r="4" fill="#2a9d8f" />
+<circle cx="442.50" cy="337.89" r="4" fill="#2a9d8f" />
+<circle cx="591.25" cy="287.97" r="4" fill="#2a9d8f" />
+<circle cx="740.00" cy="234.13" r="4" fill="#2a9d8f" />
+<text x="435.0" y="530" text-anchor="middle" font-size="18" font-family="Helvetica">T</text>
+<text x="54" y="325.0" text-anchor="middle" font-size="18" font-family="Helvetica" transform="rotate(-90 54 325.0)">Regret</text>
+<text x="145.00" y="504" text-anchor="middle" font-size="14" font-family="Helvetica">0</text>
+<text x="293.75" y="504" text-anchor="middle" font-size="14" font-family="Helvetica">20000</text>
+<text x="442.50" y="504" text-anchor="middle" font-size="14" font-family="Helvetica">40000</text>
+<text x="591.25" y="504" text-anchor="middle" font-size="14" font-family="Helvetica">60000</text>
+<text x="740.00" y="504" text-anchor="middle" font-size="14" font-family="Helvetica">80000</text>
+<text x="135" y="485.00" text-anchor="end" font-size="14" font-family="Helvetica">0</text>
+<text x="135" y="398.75" text-anchor="end" font-size="14" font-family="Helvetica">2000</text>
+<text x="135" y="312.50" text-anchor="end" font-size="14" font-family="Helvetica">4000</text>
+<text x="135" y="226.25" text-anchor="end" font-size="14" font-family="Helvetica">6000</text>
+<text x="135" y="140.00" text-anchor="end" font-size="14" font-family="Helvetica">8000</text>
+</svg>

@@ -1,0 +1,3 @@
+T,baseline,n_products,mean_relative_improvement,median_relative_improvement
+700,Kernel-based policy,141,0.6655055110629482,0.7466823330546021
+700,DIP,141,0.43630482486882405,0.47628643417472755

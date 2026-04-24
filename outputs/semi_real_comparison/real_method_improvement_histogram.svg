@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620">
+<rect width="100%" height="100%" fill="white" />
+<text x="490.0" y="36" text-anchor="middle" font-size="28" font-family="Helvetica">Histogram of Relative Regret Improvement Across Products (T=700)</text>
+<line x1="90" y1="540" x2="940" y2="540" stroke="#333" stroke-width="1.5" />
+<line x1="90" y1="140" x2="90" y2="540" stroke="#333" stroke-width="1.5" />
+<text x="515.0" y="598" text-anchor="middle" font-size="20" font-family="Helvetica">(Baseline regret - ILPR regret) / Baseline regret</text>
+<text x="28" y="340.0" text-anchor="middle" font-size="20" font-family="Helvetica" transform="rotate(-90, 28, 340.0)">Number of products</text>
+<rect x="650" y="86" width="260" height="58" fill="white" stroke="#444" />
+<rect x="664" y="95" width="26" height="14" fill="#4C78A8" fill-opacity="0.45" stroke="#4C78A8" stroke-width="2" />
+<text x="700" y="106" font-size="16" font-family="Helvetica">vs Kernel-based policy</text>
+<rect x="664" y="117" width="26" height="14" fill="#E45756" fill-opacity="0.45" stroke="#E45756" stroke-width="2" />
+<text x="700" y="128" font-size="16" font-family="Helvetica">vs DIP</text>
+<rect x="90.75" y="517.78" width="41.00" height="22.22" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="133.25" y="540.00" width="41.00" height="0.00" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="175.75" y="532.59" width="41.00" height="7.41" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="218.25" y="532.59" width="41.00" height="7.41" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="260.75" y="532.59" width="41.00" height="7.41" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="303.25" y="525.19" width="41.00" height="14.81" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="345.75" y="525.19" width="41.00" height="14.81" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="388.25" y="540.00" width="41.00" height="0.00" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="430.75" y="495.56" width="41.00" height="44.44" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="473.25" y="502.96" width="41.00" height="37.04" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="515.75" y="540.00" width="41.00" height="0.00" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="558.25" y="517.78" width="41.00" height="22.22" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="600.75" y="525.19" width="41.00" height="14.81" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="643.25" y="517.78" width="41.00" height="22.22" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="685.75" y="451.11" width="41.00" height="88.89" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="728.25" y="451.11" width="41.00" height="88.89" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="770.75" y="480.74" width="41.00" height="59.26" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="813.25" y="480.74" width="41.00" height="59.26" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="855.75" y="406.67" width="41.00" height="133.33" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="898.25" y="140.00" width="41.00" height="400.00" fill="#4C78A8" fill-opacity="0.38" stroke="#4C78A8" stroke-width="1.5" />
+<rect x="90.75" y="495.56" width="41.00" height="44.44" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="133.25" y="502.96" width="41.00" height="37.04" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="175.75" y="532.59" width="41.00" height="7.41" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="218.25" y="510.37" width="41.00" height="29.63" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="260.75" y="473.33" width="41.00" height="66.67" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="303.25" y="502.96" width="41.00" height="37.04" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="345.75" y="532.59" width="41.00" height="7.41" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="388.25" y="488.15" width="41.00" height="51.85" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="430.75" y="488.15" width="41.00" height="51.85" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="473.25" y="480.74" width="41.00" height="59.26" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="515.75" y="421.48" width="41.00" height="118.52" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="558.25" y="458.52" width="41.00" height="81.48" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="600.75" y="473.33" width="41.00" height="66.67" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="643.25" y="369.63" width="41.00" height="170.37" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="685.75" y="377.04" width="41.00" height="162.96" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="728.25" y="495.56" width="41.00" height="44.44" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="770.75" y="532.59" width="41.00" height="7.41" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="813.25" y="540.00" width="41.00" height="0.00" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="855.75" y="540.00" width="41.00" height="0.00" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<rect x="898.25" y="540.00" width="41.00" height="0.00" fill="#E45756" fill-opacity="0.38" stroke="#E45756" stroke-width="1.5" />
+<line x1="90" y1="540.00" x2="940" y2="540.00" stroke="#eee" stroke-width="1" />
+<text x="80" y="545.00" text-anchor="end" font-size="15" font-family="Helvetica">0</text>
+<line x1="90" y1="458.52" x2="940" y2="458.52" stroke="#eee" stroke-width="1" />
+<text x="80" y="463.52" text-anchor="end" font-size="15" font-family="Helvetica">11</text>
+<line x1="90" y1="377.04" x2="940" y2="377.04" stroke="#eee" stroke-width="1" />
+<text x="80" y="382.04" text-anchor="end" font-size="15" font-family="Helvetica">22</text>
+<line x1="90" y1="295.56" x2="940" y2="295.56" stroke="#eee" stroke-width="1" />
+<text x="80" y="300.56" text-anchor="end" font-size="15" font-family="Helvetica">33</text>
+<line x1="90" y1="214.07" x2="940" y2="214.07" stroke="#eee" stroke-width="1" />
+<text x="80" y="219.07" text-anchor="end" font-size="15" font-family="Helvetica">44</text>
+<line x1="90.00" y1="540" x2="90.00" y2="547" stroke="#333" stroke-width="1.5" />
+<text x="90.00" y="568" text-anchor="middle" font-size="15" font-family="Helvetica">6%</text>
+<line x1="302.50" y1="540" x2="302.50" y2="547" stroke="#333" stroke-width="1.5" />
+<text x="302.50" y="568" text-anchor="middle" font-size="15" font-family="Helvetica">25%</text>
+<line x1="515.00" y1="540" x2="515.00" y2="547" stroke="#333" stroke-width="1.5" />
+<text x="515.00" y="568" text-anchor="middle" font-size="15" font-family="Helvetica">44%</text>
+<line x1="727.50" y1="540" x2="727.50" y2="547" stroke="#333" stroke-width="1.5" />
+<text x="727.50" y="568" text-anchor="middle" font-size="15" font-family="Helvetica">63%</text>
+<line x1="940.00" y1="540" x2="940.00" y2="547" stroke="#333" stroke-width="1.5" />
+<text x="940.00" y="568" text-anchor="middle" font-size="15" font-family="Helvetica">82%</text>
+</svg>
